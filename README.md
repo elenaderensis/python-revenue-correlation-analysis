@@ -12,7 +12,7 @@ Key outcomes:
 - Discovered budget-revenue correlation (r=0.73) confirms "spend money to make money" but not guaranteed
 - Analyzed 4,803 movies with budgets ranging from $0 to $380M and revenue spanning multiple decades
 
-Project Resources: [View Jupyter Notebook](https://github.com/elenaderensis/PortfolioProjects/blob/main/Movie%20Correlation%20Project.ipynb) | [Download Dataset] (https://github.com/elenaderensis/PortfolioProjects/blob/main/movies.csv.csv)
+Project Resources: [View Jupyter Notebook](https://github.com/elenaderensis/PortfolioProjects/blob/main/Movie%20Correlation%20Project.ipynb) | [Download Dataset](https://github.com/elenaderensis/PortfolioProjects/blob/main/movies.csv.csv)
 
 **Analysis Overview**
 <img width="823" height="562" alt="image" src="https://github.com/user-attachments/assets/07584ce9-fc5d-43fa-bfda-f15d7d5f9bca" />
