@@ -36,7 +36,7 @@ This Python analysis examines 4,803 movies across 24 features to quantify relati
 
 ### Data Structure
 
-**Movies Dataset:** 4,803 films (TMDb API source)
+- **Movies Dataset:** 4,803 films (TMDb API source)
 - **Financial Metrics:** budget, revenue (range: $0 - $380M)
 - **Audience Metrics:** vote_average (0-10 scale), vote_count (0 - 13,752 votes), popularity (TMDb engagement score)
 - **Production Details:** runtime, production_companies, director, cast, crew
